@@ -1,9 +1,9 @@
 # socket-io-react-example
-simple chat example with socket.io
+mono repo simple chat example with socket.io
 
 inspiration:
-- [https://www.youtube.com/watch?v=uqII0AOW1NM](youtube)
-- forked server code from [https://github.com/ezolla/twitch-chat-socket](here)
+- (Dan Abramov SLAYS Frontend Interview w/ Ex-Twitch Engineer)[https://www.youtube.com/watch?v=uqII0AOW1NM]
+- forked server code from [ezolla](https://github.com/ezolla/twitch-chat-socket)
 
 
 ## client
