@@ -1,7 +1,6 @@
 {
-  "name": "twitch-chat-socket",
+  "name": "socket-io-react-example/server",
   "version": "1.0.0",
-  "description": "Mock Twitch chat socket server.",
   "main": "index.js",
   "scripts": {
     "build": "tsc",
